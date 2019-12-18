@@ -25,3 +25,6 @@ void Article::setTitre(std::string titreSet){
 void Article::setPrix(double prixSet){
 	prix = prixSet;
 }
+
+
+//test git wola
